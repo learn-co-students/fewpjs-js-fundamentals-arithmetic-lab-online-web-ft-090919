@@ -1,2 +1,11 @@
+let num1 = 2
+let num2 = 31
 
-// Write your code here
+
+let multiply = (num1 * num2)
+
+let random = Math.random()
+
+let mod = (11%7)
+
+let max = max || 20;
